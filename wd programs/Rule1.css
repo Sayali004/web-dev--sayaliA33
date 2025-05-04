@@ -1,0 +1,51 @@
+
+carshowroom {
+  display: block;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  padding: 20px;
+  color: #333;
+}
+
+
+heading {
+  display: block;
+  font-size: 28px;
+  font-weight: bold;
+  color: #0066cc;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 10px;
+}
+
+
+car {
+  display: block;
+  border: 1px solid #ddd;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+
+title, model, manufacturer, year, price {
+  display: block;
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+model {
+  font-weight: bold;
+  color: #2e8b57;
+}
+
+manufacturer {
+  color: #444;
+}
+
+price {
+  color: #b22222;
+  font-weight: bold;
+}

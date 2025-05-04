@@ -1,0 +1,85 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<car>
+
+<company>
+  <title> BMW </title>
+  <owner> Herbert Diess </owner>
+  <vehicle> 3 SERIES </vehicle>
+  <model> 2015 </model>
+  <fuel> Petrol </fuel>
+</company>
+
+<company>
+  <title> PORSCHE </title>
+  <owner> Oliver Blume </owner>
+  <vehicle> 911 </vehicle>
+  <model> 2016 </model>
+  <fuel> Petrol </fuel>
+</company>
+
+<company>
+  <title> MERCEDES </title>
+  <owner> Ola Källenius </owner>
+  <vehicle> C-CLASS </vehicle>
+  <model> 2017 </model>
+  <fuel> Petrol </fuel>
+</company>
+
+<company>
+  <title> LAMBORGHINI </title>
+  <owner> Stephan Winkelmann </owner>
+  <vehicle> HURACÁN </vehicle>
+  <model> 2016 </model>
+  <fuel> Petrol </fuel>
+</company>
+
+
+<company>
+  <title> PAGANI </title>
+  <owner> Horacio Pagani </owner>
+  <vehicle> HUAYRA </vehicle>
+  <model> 2015 </model>
+  <fuel> Petrol </fuel>
+</company>
+
+<company>
+  <title> TESLA </title>
+  <owner> Elon Musk </owner>
+  <vehicle> MODEL S </vehicle>
+  <model> 2015 </model>
+  <fuel> Electric </fuel>
+</company>
+
+<company>
+  <title> BUGATTI </title>
+  <owner> Mate Rimac </owner>
+  <vehicle> VEYRON </vehicle>
+  <model> 2005 </model>
+  <fuel> Petrol </fuel>
+</company>
+
+<company>
+  <title> TATA </title>
+  <owner> RATAN TATA </owner>
+  <vehicle> NANO </vehicle>
+  <model>1997</model>
+  <fuel>Disel</fuel>
+</company>
+
+<company>
+  <title> FORD </title>
+  <owner> Jim Farley </owner>
+  <vehicle> FOCUS </vehicle>
+  <model> 2012 </model>
+  <fuel> Petrol </fuel>
+</company>
+
+<company>
+  <title> TOYOTA </title>
+  <owner> Akio Toyoda </owner>
+  <vehicle> INNOVA </vehicle>
+  <model> 2005 </model>
+  <fuel> Diesel </fuel>
+</company>
+
+</car>

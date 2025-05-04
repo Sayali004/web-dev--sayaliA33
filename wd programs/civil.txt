@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="styles.css">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>civil</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      background-color: #yellow;
+    }
+
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+
+    p {
+      font-size: 1.1em;
+      color: #555;
+      max-width: 800px;
+      margin: 0 auto 20px auto;
+    }
+
+    ol {
+      background-color: #yellow;
+      padding: 15px;
+      border-radius: 8px;
+      width: 80%;
+      max-width: 500px;
+      margin: 0 auto;
+    }
+
+    ol li {
+      padding: 10px;
+      font-size: 1.2em;
+      color: #333;
+    }
+
+    ol li:nth-child(even) {
+      background-color: #e9e9e9;
+    }
+
+    ol li:hover {
+      background-color: #d1d1d1;
+    }
+
+    .break {
+      display: block;
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>A Civil Engineering Department</h1>
+
+  <p>The Civil Engineering department focuses on the design,<span class="break"></span>
+  construction, and maintenance of the built environment, <span class="break"></span>
+  encompassing everything from buildings and bridges to <span class="break"></span>
+  transportation systems, water treatment plants, and infrastructure.</p>
+
+  <ol>
+    <li>Fluid Mechanics</li>
+    <li>Earthquake Engineering</li>
+    <li>Construction Project Management</li>
+    <li>Urban Planning and Development</li>
+  </ol>
+</body>
+</html>

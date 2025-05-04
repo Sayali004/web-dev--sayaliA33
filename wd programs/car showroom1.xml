@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carshowroom>
+  <car>
+    <model>Mahindra Thar</model>
+    <manufacturer>Mahindra</manufacturer>
+    <year>2023</year>
+    <price>16,00,000.00</price>
+  </car>
+
+  <car>
+    <model>Lamborghini Urus SE</model>
+    <manufacturer>Lamborghini</manufacturer>
+    <year>2024</year>
+    <price>4,57,00,000.00</price>
+  </car>
+
+  <car>
+    <model>Aston Martin Vantage</model>
+    <manufacturer>Aston Martin</manufacturer>
+    <year>2024</year>
+    <price>3,99,00,000.00</price>
+  </car>
+
+  <car>
+    <model>Mercedes-Maybach S680</model>
+    <manufacturer>Mercedes-Benz</manufacturer>
+    <year>2024</year>
+    <price>2,60,00,000.00</price>
+  </car>
+
+  <car>
+    <model>Porsche Taycan Turbo S</model>
+    <manufacturer>Porsche</manufacturer>
+    <year>2024</year>
+    <price>2,25,00,000.00</price>
+  </car>
+
+  <car>
+    <model>Toyota Fortuner</model>
+    <manufacturer>Toyota</manufacturer>
+    <year>2023</year>
+    <price>48,00,000.00</price>
+  </car>
+
+  <car>
+    <model>BMW X7</model>
+    <manufacturer>BMW</manufacturer>
+    <year>2024</year>
+    <price>1,27,00,000.00</price>
+  </car>
+
+  <car>
+    <model>Jeep Meridian</model>
+    <manufacturer>Jeep</manufacturer>
+    <year>2023</year>
+    <price>37,00,000.00</price>
+  </car>
+
+  <car>
+    <model>Tesla Model S Plaid</model>
+    <manufacturer>Tesla</manufacturer>
+    <year>2024</year>
+    <price>1,50,00,000.00</price>
+  </car>
+
+  <car>
+    <model>Ferrari SF90 Stradale</model>
+    <manufacturer>Ferrari</manufacturer>
+    <year>2024</year>
+    <price>7,50,00,000.00</price>
+  </car>
+</carshowroom>

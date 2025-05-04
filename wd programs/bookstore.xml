@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+
+<book>
+  <title> XML technologies </title>
+  <author>Atul Kahate</author>
+  <year> 2020 </year>
+  <price>300.00</price>
+</book>
+
+<book>
+  <title>Data Structure</title>
+  <author>Seymour Lipschutz</author>
+  <year> 2010 </year>
+  <price>550.00</price>
+</book>
+
+<book>
+  <title>Introduction to language and theory of computation </title>
+  <author>John .C.Martin</author>
+  <year> 2010 </year>
+  <price>500.00</price> 
+</book>
+
+<book>
+  <title>Html,CSS and Javascript:all in one</title>
+  <author>Jennifer Kyrnin</author>
+  <year> 2017 </year>
+  <price>670.00</price>
+</book>
+
+<book>
+  <title>Effective Java </title>
+  <author>Joshua Bloch</author>
+  <year> 2017 </year>
+  <price>380.00</price>
+</book>
+
+<book>
+  <title>R for Data Science </title>
+  <author>JHadley Wickham & Garrett Grolemund</author>
+  <year> 2015 </year>
+  <price>800.00</price>
+</book>
+
+<book>
+  <title>Learning JavaScript, Node, and React: A hands-on guide to building web applications with JavaScript </title>
+  <author> K. P. S. R. Anjaneyulu, Subash Chandran</author>
+  <year> 2021 </year>
+  <price>900.00</price>
+</book>
+
+<book>
+  <title>A System approach to planning,scheduling,and controlling</title>
+  <author>Harold Kerzner</author>
+  <year> 2017 </year>
+  <price>750.00</price>
+</book>
+
+<book>
+  <title>Python Crash Course </title>
+  <author>Eric Matthes</author>
+  <year> 2019</year>
+  <price>680.00</price>
+</book>
+
+<book>
+  <title>Environmental Studies: A Global Perspective</title>
+  <author>Joseph L. Levine</author>
+  <year> 2001 </year>
+  <price>450.00</price>
+</book>
+
+</bookstore>
