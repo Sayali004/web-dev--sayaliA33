@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carshowroom>
+  <car>
+    <model>Rolls-Royce Cullinan Series II</model>
+    <manufacturer>Rolls-Royce</manufacturer>
+    <year>2024</year>
+    <price>10500000.00</price>
+  </car>
+  <car>
+    <model>Lamborghini Urus SE</model>
+    <manufacturer>Lamborghini</manufacturer>
+    <year>2024</year>
+    <price>45700000.00</price>
+  </car>
+  <car>
+    <model>Aston Martin Vantage</model>
+    <manufacturer>Aston Martin</manufacturer>
+    <year>2024</year>
+    <price>39900000.00</price>
+  </car>
+  <car>
+    <model>Mercedes-Maybach S680</model>
+    <manufacturer>Mercedes-Benz</manufacturer>
+    <year>2024</year>
+    <price>26000000.00</price>
+  </car>
+  <car>
+    <model>Porsche Taycan Turbo S</model>
+    <manufacturer>Porsche</manufacturer>
+    <year>2024</year>
+    <price>22500000.00</price>
+  </car>
+  <car>
+    <model>Mahindra Thar</model>
+    <manufacturer>Mahindra</manufacturer>
+    <year>2023</year>
+    <price>1600000.00</price>
+  </car>
+  <car>
+    <model>Toyota Fortuner</model>
+    <manufacturer>Toyota</manufacturer>
+    <year>2023</year>
+    <price>4800000.00</price>
+  </car>
+</carshowroom>
+

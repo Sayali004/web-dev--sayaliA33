@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book>
+    <title>Introduction to Languages &amp; Theory of Computations</title>
+    <author>John C.Martin</author>
+    <year>2002</year>
+    <price>200.00</price>
+  </book>
+  <book>
+    <title>An Introduction to Data Structures &amp; Applications</title>
+    <author>Jean-Paul Tremblay</author>
+    <year>2003</year>
+    <price>300.00</price>
+  </book>
+  <book>
+    <title>Advanced Object-Oriented Concepts in Java</title>
+    <author>Cay Horstmann</author>
+    <year>2004</year>
+    <price>400.00</price>
+  </book>
+  <book>
+    <title>Environmental Studies</title>
+    <author>Dr.G.R.Parihar</author>
+    <year>2001</year>
+    <price>450.00</price>
+  </book>
+  <book>
+    <title>Technologies for Project Management and Start-Up</title>
+    <author>Harold Kerzner</author>
+    <year>2005</year>
+    <price>340.00</price>
+  </book>
+  <book>
+    <title>Web Development</title>
+    <author>Michael Bowers</author>
+    <year>2010</year>
+    <price>500.00</price>
+  </book>
+</bookstore>

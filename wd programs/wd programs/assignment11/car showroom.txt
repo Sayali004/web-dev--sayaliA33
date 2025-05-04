@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Rule1.css"?>
+<carshowroom>
+   <heading>Welcome to carshowroom</heading>
+ <car>
+    <model>Mahindra Thar</model>
+    <manufacturer>Mahindra</manufacturer>
+    <year>2023</year>
+    <price>16,00000.00</price>
+  </car>
+
+  <car>
+    <model>Lamborghini Urus SE</model>
+    <manufacturer>Lamborghini</manufacturer>
+    <year>2024</year>
+    <price>4,57,00000.00</price>
+  </car>
+
+  <car>
+    <model>Aston Martin Vantage</model>
+    <manufacturer>Aston Martin</manufacturer>
+    <year>2024</year>
+    <price>39,900000.00</price>
+  </car>
+
+  <car>
+    <model>Mercedes-Maybach S680</model>
+    <manufacturer>Mercedes-Benz</manufacturer>
+    <year>2024</year>
+    <price>2,60,00000.00</price>
+  </car>
+
+  <car>
+    <model>Porsche Taycan Turbo S</model>
+    <manufacturer>Porsche</manufacturer>
+    <year>2024</year>
+    <price>2,25,00000.00</price>
+  </car>
+ 
+  <car>
+    <model>Toyota Fortuner</model>
+    <manufacturer>Toyota</manufacturer>
+    <year>2023</year>
+    <price>48,00000.00</price>
+  </car>
+</carshowroom>
+
